@@ -12,7 +12,7 @@ public class linearSearch {
 				return i;
 			}
 		}
-		return arr.length;
+		return -1;
 	}
 	
 	public static void main(String[] args) 
